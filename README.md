@@ -1,6 +1,6 @@
 # Assisted Reach Machine
 
-###Goals:  
+### Goals:  
 	- comfortable reach (double the arm legth)  
 	- strength of squeeze (high as possible, but variable)  
 	- size of hand (double the size of human hand)  
