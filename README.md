@@ -7,5 +7,5 @@ Goals:
 	- weight (low as possible without sacrificing other goals, preferably below 2000g)
 	- flexural strength (high as possible, without sacrificing other goals)
 	- comfort (as comfortable as possible)
-	- intuitiveness (as understandable and usable as possible)
 	- range of motion (as close to the ROM of a human forearm and hand)
+	- intuitiveness (as understandable and usable as possible)
