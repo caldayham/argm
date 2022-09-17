@@ -1,4 +1,4 @@
-# Assisted Reach Machine (ARM)
+# Assisted Reach and Grip Machine (ARGM)
 
 ### Goals:  
 	- comfortable reach (double the arm legth)  
