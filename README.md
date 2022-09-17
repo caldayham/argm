@@ -1,4 +1,4 @@
-# Assisted Reach Machine
+# Assisted Reach Machine (ARM)
 
 ### Goals:  
 	- comfortable reach (double the arm legth)  
